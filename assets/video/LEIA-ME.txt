@@ -1,0 +1,2 @@
+Coloque aqui o video do primeiro slide como hero.mp4
+MP4 H.264, sem audio, 8-12s em loop, ate 3-5 MB.
